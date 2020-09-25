@@ -1,0 +1,404 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\arian\.nuget\packages\</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.6.0</NuGetToolVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Argentina.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Argentina.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Argentina.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Argentina.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Australia.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Australia.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Australia.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Australia.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Austria.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Austria.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Austria.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Austria.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Belarus.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Belarus.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Belarus.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Belarus.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Belgium.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Belgium.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Belgium.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Belgium.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Brazil.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Brazil.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Brazil.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Brazil.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Canada.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Canada.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Canada.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Canada.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Colombia.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Colombia.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Colombia.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Colombia.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Croatia.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Croatia.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Croatia.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Croatia.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Czech.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Czech.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Czech.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Czech.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Denmark.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Denmark.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Denmark.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Denmark.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\England.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\England.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\England.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\England.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Finland.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Finland.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Finland.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Finland.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\France.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\France.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\France.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\France.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Germany.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Germany.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Germany.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Germany.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Hungary.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Hungary.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Hungary.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Hungary.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\India.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\India.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\India.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\India.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Ireland.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Ireland.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Ireland.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Ireland.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Isle of Man.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Isle of Man.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Isle of Man.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Isle of Man.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Italy.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Italy.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Italy.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Italy.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Japan.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Japan.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Japan.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Japan.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Mexico.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Mexico.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Mexico.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Mexico.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Netherlands.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Netherlands.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Netherlands.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Netherlands.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\New Zealand.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\New Zealand.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\New Zealand.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\New Zealand.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Northern Ireland.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Northern Ireland.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Northern Ireland.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Northern Ireland.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Norway.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Norway.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Norway.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Norway.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Poland.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Poland.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Poland.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Poland.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Portugal.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Portugal.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Portugal.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Portugal.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Scotland.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Scotland.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Scotland.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Scotland.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Slovenia.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Slovenia.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Slovenia.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Slovenia.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\South Africa.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\South Africa.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\South Africa.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\South Africa.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Spain.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Spain.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Spain.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Spain.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Sweden.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Sweden.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Sweden.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Sweden.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Switzerland.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Switzerland.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Switzerland.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Switzerland.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Ukraine.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Ukraine.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Ukraine.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Ukraine.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\United Kingdom.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\United Kingdom.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\United Kingdom.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\United Kingdom.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\United States.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\United States.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\United States.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\United States.json</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Wales.json" Condition="Exists('$(NuGetPackageRoot)microsoft.mlfeaturizers\0.3.5\contentFiles\any\any\Data\DateTimeFeaturizer\Wales.json')">
+      <NuGetPackageId>Microsoft.MLFeaturizers</NuGetPackageId>
+      <NuGetPackageVersion>0.3.5</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Data\DateTimeFeaturizer\Wales.json</TargetPath>
+      <DestinationSubDirectory>Data\DateTimeFeaturizer\</DestinationSubDirectory>
+      <Private>True</Private>
+      <Link>Data\DateTimeFeaturizer\Wales.json</Link>
+    </None>
+  </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.ml\1.5.0\build\netstandard2.0\Microsoft.ML.props" Condition="Exists('$(NuGetPackageRoot)microsoft.ml\1.5.0\build\netstandard2.0\Microsoft.ML.props')" />
+    <Import Project="$(NuGetPackageRoot)lightgbm\2.2.3\build\LightGBM.props" Condition="Exists('$(NuGetPackageRoot)lightgbm\2.2.3\build\LightGBM.props')" />
+  </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">C:\Users\arian\.nuget\packages\newtonsoft.json\10.0.3</PkgNewtonsoft_Json>
+  </PropertyGroup>
+</Project>
