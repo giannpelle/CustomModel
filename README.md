@@ -12,4 +12,4 @@ che potesse ridurre il numero di richieste in arrivo al supporto clienti dell’
 
 ## Studio e Implementazione di un Assistente Virtuale Dotato di Intelligenza Artificiale
 
-Una completa descrizione del prodotto realizzato è disponibile [qui]()
+Una completa descrizione del prodotto realizzato è disponibile [qui](https://github.com/giannpelle/CustomModel/blob/master/tesi_laurea_gianluigi_pelle.pdf)
